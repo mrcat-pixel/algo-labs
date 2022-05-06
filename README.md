@@ -1,2 +1,2 @@
 # algo-labs
-ITMO University algorithms and data structures course
+Programs made for the ITMO University algorithms and data structures course
